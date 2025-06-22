@@ -1,0 +1,9 @@
+global-trading/
+├── frontend/
+│   ├── pages/
+│   │   └── index.jsx
+│   └── .env.example
+├── backend/
+│   ├── server.js
+│   └── models/
+│       └── User.js
